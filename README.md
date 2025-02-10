@@ -10,9 +10,7 @@ This repository contains the following key files:
 
 1. **FinSight-AI Project Report**: A comprehensive document detailing the project's objectives, dataset, modeling process, deployment architecture, challenges faced, and solutions implemented.
 
-2. **Web Scraping Script (`finsight-ai-442823-74c796148fec.json`)**: A JSON file containing configurations and credentials used for scraping financial news headlines from sources such as CNBC, The Guardian, and Reuters.
-
-3. **GCP Implementation Notebook (`finsight-ai-implementation.ipynb`)**: A Jupyter Notebook demonstrating the implementation of the sentiment analysis model on Google Cloud Platform (GCP), including steps for data preprocessing, model training, and deployment on Vertex AI.
+2. **GCP Implementation Notebook (`finsight-ai-implementation.ipynb`)**: A Jupyter Notebook demonstrating the implementation of the sentiment analysis model on Google Cloud Platform (GCP), including steps for data preprocessing, model training, and deployment on Vertex AI.
 
 ## Problem Statement
 
